@@ -43,6 +43,7 @@ Provided to the DIY community for non-commercial use by Brian Thornock, copyrigh
 <paragraph index="65" node_type="writer">The BOM below is the list of parts I used for mine along with quantities. All parts are easily available through Tayda. All components are through hole with 1/4W resistors.</paragraph>
 
 | <paragraph index="70" node_type="writer" parent_index="68">Part</paragraph> | <paragraph index="73" node_type="writer" parent_index="68">Qty.</paragraph> | <paragraph index="76" node_type="writer" parent_index="68">Notes</paragraph> |
+| --- | --- | --- |
 | <paragraph index="79" node_type="writer" parent_index="68">100R Resistor</paragraph> | <paragraph index="82" node_type="writer" parent_index="68">1</paragraph> |
 | <paragraph index="88" node_type="writer" parent_index="68">1k5 Resistor</paragraph> | <paragraph index="91" node_type="writer" parent_index="68">1</paragraph> |
 | <paragraph index="97" node_type="writer" parent_index="68">1k8 Resistor</paragraph> | <paragraph index="100" node_type="writer" parent_index="68">2</paragraph> |
