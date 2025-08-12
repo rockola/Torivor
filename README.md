@@ -81,7 +81,7 @@ Provided to the DIY community for non-commercial use by Brian Thornock, copyrigh
 
  <paragraph index="352" node_type="writer">The full schematic is shown below. It is also provided as a PDF in the project folder.</paragraph>
 
-### Torivor Full Schematic
+![full_schematic](images/full_schematic.png "Full schematic")
 
 ## Build Notes
 
