@@ -4,6 +4,9 @@ A Dual Channel Amp In a Box
 
 ![Torivor](images/boxed_300x.jpg "Torivor (boxed)")
 
+![Torivor PCB (front)](images/torivor_front_300x.jpg "Torivor PCB (front)")
+![Torivor PCB (back)](images/torivor_back_300x.jpg "Torivor PCB (back)")
+
 Provided to the DIY community for non-commercial use by Brian Thornock, copyright 2022
 
 ## Overview
