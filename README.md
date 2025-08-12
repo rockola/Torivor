@@ -2,6 +2,8 @@
 
 A Dual Channel Amp In a Box
 
+![Torivor](images/boxed.jpg "Torivor (boxed)")
+
 Provided to the DIY community for non-commercial use by Brian Thornock, copyright 2022
 
 ## Overview
